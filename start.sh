@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # configs
-AUUID=e922d94b-56ce-4969-a3f9-372d026ebb86
-CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
+AUUID=f83becd2-76d3-4179-9463-c1a39cead7b8
+CADDYIndexPage=https://github.com/laurence8888/Railway-Xray/blob/main/etc/CADDYIndexPage.md
 CONFIGCADDY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
